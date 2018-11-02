@@ -1,0 +1,8 @@
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\obj\Debug\Orphans Management System.csprojResolveAssemblyReference.cache
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\obj\Debug\Orphans_Management_System.Properties.Resources.resources
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\obj\Debug\Orphans Management System.csproj.GenerateResource.Cache
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\bin\Debug\Orphans Management System.exe.config
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\bin\Debug\Orphans Management System.exe
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\bin\Debug\Orphans Management System.pdb
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\obj\Debug\Orphans Management System.exe
+C:\Users\First\Desktop\Orphans-Management-System\Orphans Management System\obj\Debug\Orphans Management System.pdb
